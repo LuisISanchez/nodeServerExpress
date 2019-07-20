@@ -1,7 +1,7 @@
 {
   "name": "06-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Servidor node para pagina web usando express, hbs, bootstrap",
   "main": "app.js",
   "scripts": {
     "start": "node server",
@@ -11,6 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "hbs": "^4.0.1"
-  }
+    "hbs": "^4.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrLuis95/nodeServerExpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrLuis95/nodeServerExpress/issues"
+  },
+  "homepage": "https://github.com/MrLuis95/nodeServerExpress#readme"
 }
